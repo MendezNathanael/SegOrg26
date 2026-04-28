@@ -1,0 +1,12 @@
+C:\Users\natha\source\repos\WFGestorEstudiantil\bin\Debug\WFGestorEstudiantil.exe.config
+C:\Users\natha\source\repos\WFGestorEstudiantil\bin\Debug\WFGestorEstudiantil.exe
+C:\Users\natha\source\repos\WFGestorEstudiantil\bin\Debug\WFGestorEstudiantil.pdb
+C:\Users\natha\source\repos\WFGestorEstudiantil\obj\Debug\WFGestorEstudiantil.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\WFGestorEstudiantil\obj\Debug\WFGestorEstudiantil.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\source\repos\WFGestorEstudiantil\obj\Debug\WFGestorEstudiantil.FormLogin.resources
+C:\Users\natha\source\repos\WFGestorEstudiantil\obj\Debug\WFGestorEstudiantil.Properties.Resources.resources
+C:\Users\natha\source\repos\WFGestorEstudiantil\obj\Debug\WFGestorEstudiantil.csproj.GenerateResource.cache
+C:\Users\natha\source\repos\WFGestorEstudiantil\obj\Debug\WFGestorEstudiantil.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\WFGestorEstudiantil\obj\Debug\WFGestorEstudiantil.exe
+C:\Users\natha\source\repos\WFGestorEstudiantil\obj\Debug\WFGestorEstudiantil.pdb
+C:\Users\natha\source\repos\WFGestorEstudiantil\obj\Debug\WFGestorEstudiantil.FormGestion.resources
